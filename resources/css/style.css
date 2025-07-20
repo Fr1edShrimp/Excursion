@@ -29,3 +29,10 @@ a {
     color: aquamarine;
     font-size: 16px;
 }
+
+footer {
+    text-align: right;
+    color: gray;
+    padding: 20px 0;
+    font-size: 21px;
+}
